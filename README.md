@@ -7,3 +7,5 @@ The following Python libraries were used:
 - Seaborn
 - PyPlot
 - SciKit Learn
+
+This was based on the following documentation from [Microsoft](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
